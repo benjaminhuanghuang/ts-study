@@ -10,3 +10,9 @@
 
 ## Build typescript in VS code
     CMD + Shift + b
+
+
+## Reference
+    https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
+
+    
