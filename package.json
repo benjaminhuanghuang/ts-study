@@ -1,0 +1,23 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "## Setup VS code for typescript",
+  "main": "hello.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhuanghuang/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhuanghuang/typescript-study/issues"
+  },
+  "homepage": "https://github.com/benjaminhuanghuang/typescript-study#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
