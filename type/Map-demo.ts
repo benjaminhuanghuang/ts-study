@@ -1,3 +1,10 @@
+// Init
+let map = new Map([
+  [ "A", 1 ],
+  [ "B", 2 ],
+  [ "C", 3 ]
+]);
+
 // Using Object.entries
 const expectedCounts = new Map(Object.entries({ car: 1, ':': 2, carpet: 1, as: 1, java: 1, 'javascript!!&@$%^&': 1 }))
    
